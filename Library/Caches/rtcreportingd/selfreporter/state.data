@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CDuetARTWakeUpCount</key>
+	<integer>0</integer>
+	<key>CDuetNRMWakeUpCount</key>
+	<integer>2</integer>
+	<key>CDuetPRTWakeUpCount</key>
+	<integer>1</integer>
+	<key>NRM-/var/root/Library/Caches/rtcreportingd/events/NRM_Events_2022-05-07-19-38-14.event</key>
+	<integer>-5</integer>
+	<key>NRM-/var/root/Library/Caches/rtcreportingd/events/NRM_Events_2022-05-09-00-50-39.event</key>
+	<integer>1</integer>
+	<key>NRM-/var/root/Library/Caches/rtcreportingd/events/NRM_Events_2022-05-09-10-56-40.event</key>
+	<integer>1</integer>
+	<key>NumFailedPOSTs</key>
+	<integer>0</integer>
+	<key>NumFailedWriteDiskCache</key>
+	<integer>0</integer>
+	<key>NumLostEventsART</key>
+	<integer>0</integer>
+	<key>NumLostEventsNRM</key>
+	<integer>0</integer>
+	<key>NumLostEventsPRT</key>
+	<integer>0</integer>
+	<key>NumSuccessfulPOSTs</key>
+	<integer>8</integer>
+	<key>NumSuccessfulWriteDiskCache</key>
+	<integer>2</integer>
+	<key>StorebagDownloadFailure</key>
+	<integer>0</integer>
+	<key>StorebagReadFailure</key>
+	<integer>0</integer>
+	<key>StorebagSignatureFailure</key>
+	<integer>0</integer>
+	<key>StorebagUpdateSuccess</key>
+	<integer>3</integer>
+	<key>StorebagWriteFailure</key>
+	<integer>0</integer>
+	<key>bytesFailed</key>
+	<integer>0</integer>
+	<key>bytesSucceeded</key>
+	<integer>5273</integer>
+</dict>
+</plist>

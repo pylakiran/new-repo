@@ -1,0 +1,75 @@
+{
+    "connectors": [
+        {"type": "J1772"},
+        {"type": "CCS1"},
+        {"type": "CCS2"},
+        {"type": "CHAdeMO"},
+        {"type": "GBT1"},
+        {"type": "GBT2"},
+        {"type": "Tesla"}
+    ],
+    "providers": [
+        {"name": "ChargePoint"},
+        {"name": "EVgo"},
+        {"name": "Electrify America"},
+        {"name": "Blink"}
+    ],
+    "whitelist": [
+        {
+            "id": "com.appleinternal.ecar",
+            "model_ids": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                4194304,
+                8388608,
+                12582912,
+                16777216
+            ]
+        },
+        {
+            "id": "com.pdi.sv.cpp",
+            "model_ids": [
+                12582912
+            ]
+        },
+        {
+            "id": "com.porsche.connect",
+            "model_ids": [
+                12582912
+            ]
+        },
+        {
+            "id":"de.quartett-mobile.pcc.qm",
+            "model_ids": [
+                12582912
+            ]
+        },
+        {
+            "id":"de.quartett-mobile.pcc.dev",
+            "model_ids": [
+                12582912
+            ]
+        },
+        {
+            "id":"de.quartett-mobile.pcc.r",
+            "model_ids": [
+                12582912
+            ]
+        },
+        {
+            "id": "com.bmw.dli.voltron",
+            "model_ids": [
+                8388608
+            ]
+        },
+        {
+            "id": "de.bmw.connected.mobile20",
+            "model_ids": [
+                8388608
+            ]
+        }
+    ]
+}

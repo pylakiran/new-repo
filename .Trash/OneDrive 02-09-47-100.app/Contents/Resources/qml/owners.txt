@@ -1,0 +1,4 @@
+;For details on ownership specifications, please refer to https://onedrive.visualstudio.com/Sync/_wiki/wikis/Sync.wiki/13878/Code-Ownership
+
+filePattern:FolderItem.qml KFM Code Reviewers
+filePattern:MoveWindow.qml KFM Code Reviewers

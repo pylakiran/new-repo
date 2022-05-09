@@ -1,0 +1,42 @@
+2020-07-10 12:31:39 -0400 [I]  VM: All install checks pass
+2020-07-10 12:31:43 -0400 [E]  RA: 
+Attributes for '/var/folders/hd/bl32f4_x07jfr9rhjfz97gvc0000gn/T/FPInstallHelper':
+ {
+    NSFileCreationDate = "2020-04-24 20:36:02 +0000";
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 0;
+    NSFileGroupOwnerAccountName = wheel;
+    NSFileHFSCreatorCode = 0;
+    NSFileHFSTypeCode = 0;
+    NSFileModificationDate = "2020-04-24 20:36:02 +0000";
+    NSFileOwnerAccountID = 0;
+    NSFileOwnerAccountName = root;
+    NSFilePosixPermissions = 2541;
+    NSFileReferenceCount = 1;
+    NSFileSize = 49872;
+    NSFileSystemFileNumber = 41877;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeRegular;
+}
+
+2020-07-10 12:31:43 -0400 [E]  RA: 
+Attributes for '/var/folders/hd/bl32f4_x07jfr9rhjfz97gvc0000gn/T':
+ {
+    NSFileCreationDate = "2020-07-10 16:23:10 +0000";
+    NSFileExtendedAttributes =     {
+        "com.apple.rootless" = <666f6c64 657273>;
+    };
+    NSFileExtensionHidden = 0;
+    NSFileGroupOwnerAccountID = 20;
+    NSFileGroupOwnerAccountName = staff;
+    NSFileModificationDate = "2020-07-10 16:31:39 +0000";
+    NSFileOwnerAccountID = 501;
+    NSFileOwnerAccountName = user;
+    NSFilePosixPermissions = 448;
+    NSFileReferenceCount = 63;
+    NSFileSize = 2016;
+    NSFileSystemFileNumber = 32554;
+    NSFileSystemNumber = 16777220;
+    NSFileType = NSFileTypeDirectory;
+}
+

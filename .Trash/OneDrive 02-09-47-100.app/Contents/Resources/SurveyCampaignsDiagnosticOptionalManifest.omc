@@ -1,0 +1,32 @@
+<manifest>
+  <assemblyIdentity name="Microsoft-OneDrive-WindowsUXHost-Log" />
+  <provider guid="{4710c6bb-00ef-436e-8206-8ace790dba6a}" symbol="SurveyCampaignsCrossPlatformUXLogsProvider">
+    <tasks>
+      <task name="LogTask" value="100" />
+    </tasks>
+    <opcodes>
+      <opcode name="LogStructured" symbol="OPCODE_LOG_STRUCTURED" value="11" />
+    </opcodes>
+    <keywords>
+      <keyword mask="0x1" name="Default" symbol="kwDefault" />
+    </keywords>
+    <events opcode="LogStructured" task="LogTask" version="1" keyword="Default" privacyLevel="DiagnosticOptional" privacyCategory="ProductUsage">
+      <event level="Informational" tags="TelemetryUsage" symbol="FloodgateSurveyControllerAction" message="FloodgateSurveyController action" value="3099804679">
+        <template>
+          <data type="UnicodeString" name="Scenario" />
+          <data type="UnicodeString" name="ScenarioInstance" value="" />
+          <data type="UnicodeString" name="ValidationError" value="" />
+          <data type="UnicodeString" name="CorrelationVector" value="" />
+          <data type="UnicodeString" name="UsageExperiment" value="" />
+          <data type="Boolean" name="IsIntentional" value="true" />
+          <data type="UnicodeString" name="DocID" value="" />
+          <data type="UnicodeString" name="WebID" value="" />
+          <data type="UnicodeString" name="SiteID" value="" />
+          <data type="UnicodeString" name="ListID" value="" />
+          <data type="UnicodeString" name="WebTemplateID" value="" />
+          <data type="UnicodeString" name="FileExtension" value="" />
+        </template>
+      </event>
+    </events>
+  </provider>
+</manifest>

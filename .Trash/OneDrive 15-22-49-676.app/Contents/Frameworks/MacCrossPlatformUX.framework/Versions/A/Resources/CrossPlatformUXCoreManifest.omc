@@ -1,0 +1,50 @@
+<manifest>
+  <assemblyIdentity name="Microsoft-OneDrive-CrossPlatformUXCore-Log" />
+  <provider guid="{915b0135-ab71-41b8-9349-1cc21ac443b0}" symbol="CrossPlatformUXCoreLogProvider">
+    <tasks>
+      <task name="LogTask" value="100" />
+    </tasks>
+    <opcodes>
+      <opcode name="LogStructured" symbol="OPCODE_LOG_STRUCTURED" value="11" />
+    </opcodes>
+    <keywords>
+      <keyword mask="0x1" name="Default" symbol="kwDefault" />
+    </keywords>
+    <events opcode="LogStructured" task="LogTask" version="1" keyword="Default" privacyLevel="RequiredServiceData" privacyCategory="ProductUsage">
+      <event level="Informational" symbol="AddToOneDriveUIManagerShowMoveShortcutDialog" message="AddToOneDriveUIManager launched qt task dialog for move shortcut" value="2777445905" />
+      <event level="Informational" symbol="AddToOneDriveUIManagerHandleTaskDialogCompleted" message="User clicked button: %buttonId within task dialog id: %taskDialogId" value="1735382430">
+        <template>
+          <data type="UInt64" name="taskDialogId" />
+          <data type="UInt64" name="buttonId" />
+        </template>
+      </event>
+      <event level="Informational" symbol="AddToOneDriveUIManagerSetMessageData" message="AddToOneDriveUIManager set message data for message type: %messageType" value="2361511762">
+        <template>
+          <data type="UInt32" name="messageType" />
+        </template>
+      </event>
+      <event level="Error" symbol="AddToOneDriveUIManagerSetMessageDataUnexpected" message="AddToOneDriveUIManager set unexpected message data" value="895639741" />
+      <event level="Informational" symbol="AddToOneDriveUIManagerRemoveShortcutMessageSet" message="AddToOneDriveUIManager set remove shortcut message" value="2174027641" />
+      <event level="Informational" symbol="AddToOneDriveUIManagerDeletedFilesMessageSet" message="AddToOneDriveUIManager set files deleted message" value="60348397" />
+      <event level="Informational" symbol="AddToOneDriveUIManagerToastSend" message="AddToOneDriveMessageSource sent toast for message type: %messageType" value="4200700774">
+        <template>
+          <data type="UInt32" name="messageType" />
+        </template>
+      </event>
+      <event level="Informational" symbol="AddToOneDriveUIManagerOnHandled" message="AddToOneDriveUIManager message: %messageId got handled with response: %response, action: %action" value="30327976">
+        <template>
+          <data type="WString" name="messageId" />
+          <data type="UInt32" name="response" />
+          <data type="UInt32" name="action" />
+        </template>
+      </event>
+      <event level="Informational" tags="Telemetry" symbol="AddToOneDriveUIManagerErrorOnHandled" message="AddToOneDriveUIManager error message got handled with error count: %errorCount, unmounted teamsite count: %teamsiteCount" value="1726734146">
+        <template>
+          <data type="UInt32" name="errorCount" />
+          <data type="UInt32" name="teamsiteCount" />
+        </template>
+      </event>
+      <event level="Informational" symbol="AddToOneDriveUIManagerGetEmptyNestedFolderName" message="AddToOneDriveUIManager got empty folder name for  AddToOneDriveNestedFolders error item." value="1815548391" />
+    </events>
+  </provider>
+</manifest>

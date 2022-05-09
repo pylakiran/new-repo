@@ -1,0 +1,259 @@
+10/04/21 00:47:12.436 [766] <COEX_Warning>: Init Platform Policies for wrmPlatformId(304)
+10/04/21 00:47:12.438 [766] <COEX_Trace>: WiFi controller init
+10/04/21 00:47:12.438 [766] <COEX_Trace>: ConfigInfo not Found
+10/04/21 00:47:12.439 [766] <COEX_Detail>: Platform Coex Features: {(
+    WiFiBtProfile
+)}
+10/04/21 00:47:12.439 [766] <COEX_Detail>: Cellular Configuration
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Max TxPower High: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Max TxPower Low: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Max LTE Denial: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Max Allowed Frame Denials :(null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Frame Denial Window :(null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Tx Pwr Threshold for Adv Tx :(null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Tx Rb Threshold for Adv Tx :(null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     LTE Scan Protection Frequencies: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Scan Protection Channels: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Scan Protection Max Duration: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>: WiFi Configuration
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Black Listed Channels on B7  : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     WCI2 Enabled Channels on B7  : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Black Listed Channels on B40A: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     WCI2 Enabled Channels on B40A: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Black Listed Channels on B40B: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     WCI2 Enabled Channels on B40B: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Black Listed Channels on B41A1: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     WCI2 Enabled Channels on B41A1: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Black Listed Channels on B41A2: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     WCI2 Enabled Channels on B41A2: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Rx Pri Threshold Low : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Rx Pri Threshold Med : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Rx Pri Threshold High: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Non-Coex Config     : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Non-Coex Cell Policy: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Coex Config         : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Coex Cell Policy    : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>: BT Configuration
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap Default : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap B7   : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap B40A : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap B40B : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap B41A1: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     AFHMap B41A2: (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Preferred Role : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Coex Default     : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Non-Coex Default : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Coex Config      : (null)
+10/04/21 00:47:12.439 [766] <COEX_Detail>:     Antenna Non-Coex Config  : (null)
+10/04/21 00:47:12.439 [766] <COEX_Info>: WCM_PolicyManager: platformId 304 coexSupported 1 iRATSupported 1
+10/04/21 00:47:12.441 [766] <COEX_Warning>: DisableCoex not found in com.apple.operator
+10/04/21 00:47:12.442 [766] <COEX_Trace>: ULCA Init-0-ULCA critical bitmap 1
+10/04/21 00:47:12.442 [766] <COEX_Info>: ClamshellState is off initially
+10/04/21 00:47:12.444 [766] <COEX_Trace>: WCM_WiFiService init
+10/04/21 00:47:12.593 [766] <COEX_Trace>: WiFiS: device power on
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WiFiS: wifiState(ENABLED) wifiChannel(0)
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Controller was created for WCMWiFi
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Initialize <WCM_WiFiControllerMacOS: 0x7ff819010a60> for WCMWiFi
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Handle controller availability for WCMWiFi
+10/04/21 00:47:12.599 [766] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/04/21 00:47:12.599 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/04/21 00:47:12.599 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.599 [766] <COEX_Detail>: BTController Init
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Controller was created for WCMBT
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Initialize <WCM_BTControllerMacOS: 0x7ff817509c90> for WCMBT
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Handle controller availability for WCMBT
+10/04/21 00:47:12.599 [766] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/04/21 00:47:12.599 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/04/21 00:47:12.599 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7ff81760adb0> { name = com.apple.WirelessCoexManager.peer.0x7ff81760adb0, listener = false, pid = 483, euid = 501, egid = 20, asid = 100008 }>
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Session init
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: 1 active sessions
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: Handling XPC Event : <OS_xpc_connection: <connection: 0x7ff81760aec0> { name = com.apple.WirelessCoexManager.peer.0x7ff81760aec0, listener = false, pid = 483, euid = 501, egid = 20, asid = 100008 }>
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: Handling XPC Connection Event
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Session init
+10/04/21 00:47:12.599 [766] <COEX_Trace>: WCM_Server: 2 active sessions
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/04/21 00:47:12.599 [766] <COEX_Trace>: Session: WCM_Session(WCMUnknown)
+10/04/21 00:47:12.600 [766] <COEX_Public>: WiFi powerState(0 -> 1)
+10/04/21 00:47:12.623 [766] <COEX_Trace>: WiFiS: succeed to download profile to index 0
+{
+    "UCM_ACK_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_ACK_PWR_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_CHAIN_ATTR" =     (
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = 127;
+            "UCM_ACK_PWR_WEAK_RSSI" = 127;
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        },
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = 127;
+            "UCM_ACK_PWR_WEAK_RSSI" = 127;
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        }
+    );
+    "UCM_DESENSE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_DESENSE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_BT_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_BT_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_STRONG_WL_BT" = 5;
+    "UCM_MODE_WEAK_BT" = 1;
+    "UCM_MODE_WEAK_WL" = 1;
+    "UCM_MODE_WEAK_WL_BT" = 1;
+    "UCM_MODE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_TX_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_TX_PWR_WL_LO_HI_RSSI_THRESH" = "-70";
+    "UCM_VERSION" = 1;
+}
+10/04/21 00:47:12.628 [766] <COEX_Trace>: WiFiS: succeed to download profile to index 1
+{
+    "UCM_ACK_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_ACK_PWR_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_CHAIN_ATTR" =     (
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = "-128";
+            "UCM_ACK_PWR_WEAK_RSSI" = "-128";
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        },
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = 32;
+            "UCM_ACK_PWR_WEAK_RSSI" = 127;
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        }
+    );
+    "UCM_DESENSE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_DESENSE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_BT_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_BT_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_STRONG_WL_BT" = 5;
+    "UCM_MODE_WEAK_BT" = 1;
+    "UCM_MODE_WEAK_WL" = 1;
+    "UCM_MODE_WEAK_WL_BT" = 1;
+    "UCM_MODE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_TX_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_TX_PWR_WL_LO_HI_RSSI_THRESH" = "-70";
+    "UCM_VERSION" = 1;
+}
+10/04/21 00:47:12.633 [766] <COEX_Trace>: WiFiS: succeed to download profile to index 2
+{
+    "UCM_ACK_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_ACK_PWR_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_CHAIN_ATTR" =     (
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = "-128";
+            "UCM_ACK_PWR_WEAK_RSSI" = "-128";
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        },
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = 32;
+            "UCM_ACK_PWR_WEAK_RSSI" = 127;
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        }
+    );
+    "UCM_DESENSE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_DESENSE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_BT_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_BT_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_STRONG_WL_BT" = 5;
+    "UCM_MODE_WEAK_BT" = 1;
+    "UCM_MODE_WEAK_WL" = 1;
+    "UCM_MODE_WEAK_WL_BT" = 1;
+    "UCM_MODE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_TX_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_TX_PWR_WL_LO_HI_RSSI_THRESH" = "-70";
+    "UCM_VERSION" = 1;
+}
+10/04/21 00:47:12.639 [766] <COEX_Trace>: WiFiS: succeed to download profile to index 3
+{
+    "UCM_ACK_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_ACK_PWR_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_CHAIN_ATTR" =     (
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = "-128";
+            "UCM_ACK_PWR_WEAK_RSSI" = "-128";
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        },
+                {
+            "UCM_ACK_PWR_STRONG_RSSI" = 127;
+            "UCM_ACK_PWR_WEAK_RSSI" = 127;
+            "UCM_DESENSE_LEVEL" = 6;
+            "UCM_TX_PWR_STRONG_RSSI" = 127;
+            "UCM_TX_PWR_WEAK_RSSI" = 127;
+        }
+    );
+    "UCM_DESENSE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_DESENSE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_BT_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_BT_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_MODE_STRONG_WL_BT" = 5;
+    "UCM_MODE_WEAK_BT" = 1;
+    "UCM_MODE_WEAK_WL" = 1;
+    "UCM_MODE_WEAK_WL_BT" = 1;
+    "UCM_MODE_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_MODE_WL_LO_HI_RSSI_THRESH" = "-65";
+    "UCM_TX_PWR_WL_HI_LO_RSSI_THRESH" = "-70";
+    "UCM_TX_PWR_WL_LO_HI_RSSI_THRESH" = "-70";
+    "UCM_VERSION" = 1;
+}
+10/04/21 00:47:12.639 [766] <COEX_Trace>: All Coex Profiles Downloaded Successfully, Activating Default Profile
+10/04/21 00:47:12.672 [766] <COEX_Trace>: WiFiS: succeeded to set index2G(0) and index5G(0)
+10/04/21 00:47:12.672 [766] <COEX_Public>: wifiState(DISABLED -> ENABLED) wifiChannel(0 -> 0)
+10/04/21 00:47:12.672 [766] <COEX_Detail>: centerFreq(0 -> 0) bandwidth(0 -> 20)
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7ff81901eb10> { count = 2, transaction: 1, voucher = 0x7ff81760aba0, contents =
+	"kMessageId" => <uint64: 0x49c96f6fb100dbf>: 1
+	"kMessageArgs" => <dictionary: 0x7ff8190134b0> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x49c96f6fb10bdbf>: 10
+	}
+}>
+10/04/21 00:47:12.672 [766] <COEX_Trace>: WCM_Controller was created for WRMIPTelephony
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Initialize IP Telephony iRAT Manager Controller for WRMIPTelephony
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Handle controller availability for WRMIPTelephony
+10/04/21 00:47:12.672 [766] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/04/21 00:47:12.672 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/04/21 00:47:12.672 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.672 [766] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Received messageId(1) from WCMUnknown <OS_xpc_dictionary: <dictionary: 0x7ff8174175b0> { count = 2, transaction: 1, voucher = 0x7ff81760aba0, contents =
+	"kMessageId" => <uint64: 0x49c96f6fb100dbf>: 1
+	"kMessageArgs" => <dictionary: 0x7ff8190134b0> { count = 1, transaction: 0, voucher = 0x0, contents =
+		"kWCMRegisterProcess_ProcessId" => <uint64: 0x49c96f6fb106dbf>: 7
+	}
+}>
+10/04/21 00:47:12.672 [766] <COEX_Trace>: WCM_Controller was created for WRMCommCenter
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Initialize <WRM_iRATClientController: 0x7ff81901ae10> for WRMCommCenter
+10/04/21 00:47:12.672 [766] <COEX_Trace>: Handle controller availability for WRMCommCenter
+10/04/21 00:47:12.672 [766] <COEX_Detail>: updateWCI2CoexPolicy gets called by configureAllWCI2 with input 0 due to (bool)enable is False as input to configureAllWCI2
+10/04/21 00:47:12.672 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (configureAllWCI2)
+10/04/21 00:47:12.672 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.672 [766] <COEX_Trace>: WCM_Session: Registed with Handover Manager, updating controller
+10/04/21 00:47:12.673 [766] <COEX_Trace>: BT powerState(0 -> 1) SCO (0 -> 0) A2DP (0 -> 0) HID (0 -> 0), BT Antenna desensed(0 -> 0)
+10/04/21 00:47:12.673 [766] <COEX_Trace>: BT powerState(0 -> 1)
+10/04/21 00:47:12.673 [766] <COEX_Trace>: BT powerState(1 -> 1) SCO (0 -> 0) A2DP (0 -> 0) HID (0 -> 0), BT Antenna desensed(0 -> 0)
+10/04/21 00:47:12.673 [766] <COEX_Trace>: just returns with no change occurred
+10/04/21 00:47:12.673 [766] <COEX_Public>: Updating policy for WiFi power on
+10/04/21 00:47:12.673 [766] <COEX_Info>: Handling WIFI Network Config change
+10/04/21 00:47:12.673 [766] <COEX_Trace>: AWD query callbacks registration result: AntSelPolicyStats 1 ULCACoexStats 1
+10/04/21 00:47:12.673 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.673 [766] <COEX_Info>: Handling WIFI Network Config change
+10/04/21 00:47:12.673 [766] <COEX_Detail>: AggdRemoval_ Since Aggd related keys ave been disabled on the server side, we will stop submitting metrics to Aggd. (updateCoexMonitorState)
+10/04/21 00:47:12.673 [766] <COEX_Trace>: Handle WiFi/BT Coex change
+10/04/21 00:47:12.673 [766] <COEX_Trace>: Already set index2G(0) index5G(0)
+10/04/21 00:47:12.673 [766] <COEX_Trace>: Handle WiFi/BT Coex change
+10/04/21 00:47:12.673 [766] <COEX_Trace>: Already set index2G(0) index5G(0)
